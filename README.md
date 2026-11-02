@@ -7,10 +7,6 @@ estimates of the mean, covariance, score distributions, and measurement error
 variance. The fitted model also gives conditional predictions of curves from
 single observations.
 
-The package accompanies *The covariance of a random function from one
-observation per curve*, by Ufuk Beyaztas, Mina Norouzirad, and Soutir
-Bandyopadhyay.
-
 The [user manual](SnapshotFDA_0.1.0.pdf) gives the model assumptions, function
 arguments, return values, and further examples.
 
